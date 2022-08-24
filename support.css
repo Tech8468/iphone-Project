@@ -1,0 +1,98 @@
+*{padding:0px; margin:0px}
+
+
+/* nav 1 starts */
+.nav-1{width: 100%; height: 48px; background: black; display: flex; justify-content: space-evenly; align-items: center;}
+.nav-1 .logo-1 img{width: 20px; height: 30px; padding-top: 10px; padding-left: 10px;}
+.nav-1 .logo-2 img{width: 20px; height: 30px; padding-top: 10px; padding-left: 10px;}
+.nav-1 .links{padding-top: 20px; padding-top: 30px;}
+.nav-1 .links a{text-decoration: white; padding-top: 10px;}
+.nav-1 .links a{font-weight: 300; color: #adadad; transition: 600ms;}
+/* CSS nav 1 END*/
+
+/* CSS Banner Start */
+.banner1{width:100%; height:500px; object-fit:cover;object-position:center; font-size: large; font-weight: bold;}
+.banner h1{color:white; position: absolute; top: 30%; left: 40%;}
+/* CSS Banner End */
+
+/* CSS Section1 Starts */
+.row1{display:flex;width:100%; margin: 10px; padding: 10px;}
+.column1{width:14.2%}
+.column2{width:14.2%}
+.column3{width:14.2%}
+.column4{width:14.2%}
+.column5{width:14.2%}
+.column6{width:14.2%}
+.column7{width:14.2%}
+/* CSS Section1 End */
+
+.column1 img{width:60%}
+.column2 img{width:60%}
+.column3 img{width:60%}
+.column4 img{width:60%}
+.column5 img{width:60%}
+.column6 img{width:60%}
+.column7 img{width:60%}
+.row1 h4{justify-content: space-between;}
+.help{display:flex; width: 100%; padding:10px; margin:10px;}
+.appleid{width:33.33%}
+.repair{width:33.33%}
+.subscription{width:33.33%}
+.appleid{width: 60%; object-position:center;}
+.repair{width: 60%; object-position:center;}
+.subscription{width: 60%; object-position:center;}
+.help a{color: blue;}
+.search{ width: 100%; padding:10px; margin:10px; text-align:center;}
+.si{width:800px; height:50px;}
+.searchtext{font-size: xx-large; font-weight: bold;}
+.row2{display:flex; width: 100%; padding:10px; margin:10px;}
+.column8{width: 50%}
+.column8 img{width: 80%}
+.column9{font-size: x-large; width:50%}
+.column9 a{color: blue}
+.row3{display:flex; width: 100%; padding:15px; margin:15px; align-items: center;}
+.column10{width: 80%; font-size: x-large}
+.column11 img{width: 10%}
+.column10 a{color: blue}
+.getsupport{width:100%; height:500px; object-fit:cover;object-position:center; font-size: large; font-weight: bold;}
+.support{height:300px; background-image:url(../support/images/get-support.jpg); background-repeat:no-repeat; background-size: cover; padding:50px; margin-top:1px}
+.supporttext{color:white; font-size:x-large; font-weight: bold; position: absolute; top: 300%; left: 15%;}
+.getsupport{width: 100%; font-size: larger; position: relative; height: 300px; text-align: center; margin-top: 1%; object-fit:cover;object-position:center; }
+.support a{color:blue;}
+.trade{display:flex; width: 100%; padding:10px; margin:10px;}
+.trade-in{width: 50%;}
+.tradetext{width: 50%; font-size:x-large; padding-left:50px;}
+.tradein{width: 70%;}
+.tradetext a{color:blue;}
+.applecare{display:flex; width: 100%; padding:10px; margin:10px;}
+.icare-in{width: 50%;}
+.icaretext{width: 50%; font-size:x-large; padding-right:50px;}
+.icarein{width: 40%;}
+.icaretext a{color:blue;}
+.counterfeit{width: 100%; padding:10px; margin:10px; font-size: large; text-align:center;}
+.counterfeit a{color: blue}
+.row4{width: 100%; display:flex; padding:10px; margin:10px;}
+.column12{width: 50%; object-fit: right;}
+.column13{width: 50%;}
+.icard{width: 70%; padding-right: 50px;}
+.icardtext{width: 100%; font-size:xx-large; padding-top:50px;}
+.column13 a{color: blue; font-size: large;}
+.programs{width: 100%; padding:10px; margin:10px; font-size: large; text-align:center;}
+.programs a{color: blue}
+.footer{background-color:#f5f4f4;}
+.connect{width: 100%; padding:10px; margin:10px; font-size: large; text-align:center;}
+.fsupport{display: flex; padding:10px; margin:10px; }
+.fsupport img{background-color: black;}
+.row5{display: flex;width: 100%; margin-top: 50px; background-color:#f5f4f4;}
+.column14{width:25%}
+.column15{width:25%}
+.column16{width:25%}
+.column17{width:25%}
+.PS{list-style:none}
+.SR{list-style:none}
+.RF{list-style:none}
+.fconnect{list-style:none}
+.footwrite a{Border-right: 1px solid grey;}
+.copy{width: 100%; margin-top: 50px;}
+.copy a{width: 20%; Justify-content: space-between; margin-top: 50px;}
+
